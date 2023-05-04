@@ -1,0 +1,45 @@
+C:\Users\drosso\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.exe
+C:\Users\drosso\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.deps.json
+C:\Users\drosso\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.runtimeconfig.json
+C:\Users\drosso\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.dll
+C:\Users\drosso\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.pdb
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.csproj.AssemblyReference.cache
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.AssemblyInfoInputs.cache
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.AssemblyInfo.cs
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.csproj.CoreCompileInputs.cache
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.dll
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\refint\Clase5Herencia.dll
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.pdb
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.genruntimeconfig.cache
+C:\Users\drosso\Desktop\Clase5Herencia\obj\Debug\net6.0\ref\Clase5Herencia.dll
+C:\Users\Rodrigo\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.exe
+C:\Users\Rodrigo\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.deps.json
+C:\Users\Rodrigo\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.dll
+C:\Users\Rodrigo\Desktop\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.pdb
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.dll
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\refint\Clase5Herencia.dll
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.pdb
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\Clase5Herencia\obj\Debug\net6.0\ref\Clase5Herencia.dll
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.exe
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.deps.json
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.dll
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\bin\Debug\net6.0\Clase5Herencia.pdb
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.dll
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\refint\Clase5Herencia.dll
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.pdb
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\Clase5Herencia.genruntimeconfig.cache
+C:\Users\Rodrigo\Desktop\CLASES OBJETO\Clase5Herencia\obj\Debug\net6.0\ref\Clase5Herencia.dll
